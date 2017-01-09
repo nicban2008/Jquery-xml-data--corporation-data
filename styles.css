@@ -1,0 +1,16 @@
+/* Styles go here */
+
+.button-color {
+    display: inline-block;
+    margin: 1em 0;
+    padding: .35em 1em;
+    background-color: #990000;
+    color: white;
+    -webkit-border-radius: 999px;
+    -moz-border-radius: 999px;
+    -ms-border-radius: 999px;
+    -o-border-radius: 999px;
+    border-radius: 999px;
+    text-decoration: none !important;
+    text-align: center;
+}
